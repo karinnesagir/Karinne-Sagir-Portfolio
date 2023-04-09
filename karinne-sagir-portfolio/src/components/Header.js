@@ -9,22 +9,23 @@ export default function Header() {
   const [currentPage, setCurrentPage] = useState('Home');
 
   const renderPage = () => {
-    if (currentPage === 'About') {
-      return <About />;
-    }
     if (currentPage === 'Portfolio') {
       return <Portfolio />;
     }
     if (currentPage === 'Contact') {
       return <Contact />;
     }
-    return <Resume />;
+    if (currentPage === 'Resume') {
+      return <Resume />;
+    }
+    return <About />;
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
   
   return (
     <div>
+      <div id="top"></div>
       <h1 id="name">Karinne Sagir</h1>
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}

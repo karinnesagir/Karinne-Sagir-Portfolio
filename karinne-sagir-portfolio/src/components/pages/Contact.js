@@ -14,7 +14,7 @@ function ContactForm() {
             const isValid = validateEmail(e.target.value);
     
                 if(!isValid) {
-                    setErrorMessage('please enter a valid email');
+                    setErrorMessage('Please enter a valid email.');
                 } else {
                     setErrorMessage('');
                 }
@@ -38,29 +38,31 @@ function ContactForm() {
 
 return (
     <section class="justify-content-center" id="contact-section">
-        <h1 data-testid='h1tag' className="contact">Contact Me</h1>
-        <hr></hr>
+        <h1 data-testid='h1tag' className="contact">Contact</h1>
         <form class="justify-content-center" id="contact-form">
-            <div>
-                <label htmlFor="name">name:</label>
-                <input class="form-control" type="text" name="name"  defaultValue={name} onBlur={handleChange}/>
+            <div class="contact-info">
+                <label htmlFor="name" id="contact-label" >Name:</label>
+                <br></br>
+                <input class="form-control" id="contact-input" type="text" name="Name"  defaultValue={name} onBlur={handleChange}/>
             </div>
-            <div >
-                <label htmlFor="email">email:</label>
-                <input class="form-control" type="email"  name="email" defaultValue={email} onBlur={handleChange} />
+            <div class="contact-info">
+                <label htmlFor="email" id="contact-label">Email: </label>
+                <br></br>
+                <input class="form-control" id="contact-input" type="email"  name="Email" defaultValue={email} onBlur={handleChange} />
             </div>
-            <div>
-                <label htmlFor="message">message:</label>
-                <textarea class="form-control" name="message" defaultValue={message} onBlur={handleChange} rows="7" />
+            <div class="contact-info">
+                <label htmlFor="message" id="contact-label">Message:</label>
+                <br></br>
+                <textarea class="form-control message-input" id="contact-input" name="Message" defaultValue={message} onBlur={handleChange} rows="7" />
             </div> 
             {errorMessage && (
             <div>
-                <p className="error-text">{errorMessage}</p>
+                <p className="error-text" id="contact-error" >{errorMessage}</p>
             </div>
             )}
 
             <div>
-            <button data-testid='button' class="btn btn-outline-dark mt-4" type="submit" onSubmit={handleSubmit}>Submit</button>
+            <button data-testid='button' class="btn btn-outline-dark mt-4" id="contact-submit" type="submit" onSubmit={handleSubmit}>Submit</button>
             </div>
         </form>
     </section>

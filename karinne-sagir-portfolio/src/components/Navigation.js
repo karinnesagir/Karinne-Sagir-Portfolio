@@ -3,7 +3,7 @@ import React from 'react';
 function Navigation({ currentPage, handlePageChange }) {
   return (
    
-    <ul className="nav nav-tabs" id="navigation">
+    <ul className="nav nav-tabs" id="navigation" class="list">
     {/* <ul className=" row navigation" id="navigation"> */}
       <li className="nav-item">
         <a
