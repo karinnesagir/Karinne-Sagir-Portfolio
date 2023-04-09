@@ -2,7 +2,7 @@
   {
   "id": 1,
   "name": "Budgetly",
-  "image": "/Users/karinnesagir/Desktop/Karinne-Sagir-Portfolio/karinne-sagir-portfolio/src/assets/images/E-commerce.jpg",
+  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/E-commerce.jpg",
   "github": "https://github.com/karinnesagir/Budgetly",
   "deploy": "https://budget-app-nodejs.herokuapp.com",
   "topics": "Express, Node.js, expression-cookies, cookies, Handlebars.js, MySQL2, Sequelize, dotenv, d3 library"
