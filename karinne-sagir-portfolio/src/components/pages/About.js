@@ -25,7 +25,7 @@ export default function About() {
           width="170px"
         />
         <div id="about-section-p">
-          <p class="about-p">Hello, Welcome to my page</p>
+          <p class="about-p">Hello, Welcome to my page.</p>
           <p class="about-p">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
             velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi

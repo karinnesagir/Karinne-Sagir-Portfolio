@@ -35,6 +35,9 @@ export default function Resume() {
           <li>AJAX</li>
           <li>Local Storage</li>
         </ul>
+        <p>
+          <br></br>
+        </p>
       </div>
     </div>
   );
