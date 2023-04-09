@@ -1,8 +1,5 @@
 body {
   margin: 0;
-  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif; */
   font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -16,16 +13,11 @@ code {
     monospace;
 }
 
-
 :root {
-  /* --chinese-violet:#6A5D7B; */
-  /* --platinum:#E8E9EB; */
   --back:rgb(230, 228, 228);
-  /* --oxyn:rgb(144, 143, 143); */
   --onyx:#323638;
   --sandy-brown: #F09D51;
   --air-blue: white;
-  /* from coolers: https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51 */
 }
 
 *  {
@@ -38,9 +30,6 @@ a {
 
 p {
   font-size: 18px;
-  /* color: var(--chinese-violet); */
-  /* font-weight: bold; */
-  /* background-color: var(--platinum); */
   text-align: left;
   margin: 0px;
   font-weight:300;
@@ -61,24 +50,18 @@ h2 {
 }
 
 h1 {
-  /* margin: auto 30px;  */
   padding: 10px;
   color: black;
-  /* color: var(--onyx); */
   font-weight:300;
   font-size: 50px;
   text-align: center;
-  /* text-shadow: 0 3px 3px white */
   background-color: white;
-
 }
 
 #name {
   font-size: 55px;
   background-color: var(--back);
-  /* color: grey; */
   font-weight:300;
-  /* color: white; */
   color: var(--onyx);
   text-align: left;
   text-shadow: none;
@@ -161,9 +144,8 @@ h1 {
 
 .card {
   background-color: var(--platinum);
-  /* border-radius: 30px; */
   border: 30px solid black;
-  height: 300px;
+  height: 350px;
   margin: 0px;
   padding: 10px;
   position: relative;
@@ -207,7 +189,6 @@ h1 {
 #card-title {
   margin-top: 10px;
   color: var(--onyx);
-  /* text-shadow: 0.5px 0.5px 0.5px; */
   font-size: 30px;
   font-weight: 300;
 }
@@ -266,7 +247,6 @@ h1 {
 #contact-label {
   font-size: 18px;
   color: black;
-  /* font-weight: bold; */
   font-weight:300;
 }
 
@@ -277,7 +257,6 @@ h1 {
 #contact-submit {
   margin: 10px 0px 60px 0px;
   font-size: 18px;
-  /* font-weight: bold; */
   border-radius: 7px;
   font-weight:300;
 }
@@ -288,7 +267,6 @@ h1 {
 
 #contact-error {
   margin-top: 10px;
-  /* background-color: var(--air-blue); */
   color: black;
   font-size: 12px;
   text-align: left;
@@ -320,11 +298,7 @@ h1 {
   margin: 50px 50px 100px 50px;
 }
 
-
-
 #footer {
-  /* background-color: var(--onyx); */
-  /* background-color: white; */
   text-align: center;
   position: absolute;
   margin-bottom: 0px;
