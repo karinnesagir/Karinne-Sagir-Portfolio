@@ -37,7 +37,7 @@ export default function Resume() {
         </ul>
         <p>
           <br></br>
-          Download my full resume: <a href="https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/karinne-sagir-portfolio/src/assets/Resume%20-%20Karinne%20Sagir.pdf" class="link">Karinne Sagir</a>
+          Download my full resume: <a href="x" class="link">Karinne Sagir</a>
         </p>
       </div>
     </div>
