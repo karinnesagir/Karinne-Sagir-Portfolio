@@ -8,6 +8,7 @@ import Resume from './pages/Resume';
 export default function Header() {
   const [currentPage, setCurrentPage] = useState('Home');
 
+
   const renderPage = () => {
     if (currentPage === 'Portfolio') {
       return <Portfolio />;

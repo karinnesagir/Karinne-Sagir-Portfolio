@@ -2,41 +2,39 @@ import React from 'react';
 
 function Navigation({ currentPage, handlePageChange }) {
   return (
-   
     <ul className="nav nav-tabs" id="navigation" class="list">
-    {/* <ul className=" row navigation" id="navigation"> */}
-      <li className="nav-item">
+      <li className={`nav-item ${currentPage === 'About' ? 'active' : ''}`}>
         <a
           href="#about"
           onClick={() => handlePageChange('About')}
-          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          className="nav-link"
         >
           About
         </a>
       </li>
-      <li className="nav-item">
+      <li className={`nav-item ${currentPage === 'Portfolio' ? 'active' : ''}`}>
         <a
           href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
-          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+          className="nav-link"
         >
           Portfolio
         </a>
       </li>
-      <li className="nav-item">
+      <li className={`nav-item ${currentPage === 'Contact' ? 'active' : ''}`}>
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
-          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          className="nav-link"
         >
           Contact
         </a>
       </li>
-      <li className="nav-item">
+      <li className={`nav-item ${currentPage === 'Resume' ? 'active' : ''}`}>
         <a
           href="#resume"
           onClick={() => handlePageChange('Resume')}
-          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+          className="nav-link"
         >
           Resume
         </a>

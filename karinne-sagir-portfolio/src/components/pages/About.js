@@ -20,6 +20,7 @@ export default function About() {
         {/* <img src="profile-image.jpg" alt="Profile" width="50" height="60"></img> */}
         <img 
           src={require('/Users/karinnesagir/Desktop/Karinne-Sagir-Portfolio/karinne-sagir-portfolio/src/assets/images/profile-image.jpg')} 
+          class="profile-img"
           alt="profile" 
           height="150px"
           width="170px"
