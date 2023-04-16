@@ -13,11 +13,7 @@ export default function About() {
         <h3 class="about-intro">M.S. in Computer Science</h3>
       </div>
       <div class="break">break</div>
-      {/* <h1><p id="bold-word">Full Stack</p>Web developer</h1> */}
       <div id="about-section-one">
-      {/* <img src="dog.jpg" alt="A black, brown, and white dog wearing a kerchief"></img> */}
-        {/* <image id="profile-image"></image> */}
-        {/* <img src="profile-image.jpg" alt="Profile" width="50" height="60"></img> */}
         <img 
           src={require('/Users/karinnesagir/Desktop/Karinne-Sagir-Portfolio/karinne-sagir-portfolio/src/assets/images/profile-image.jpg')} 
           class="profile-img"

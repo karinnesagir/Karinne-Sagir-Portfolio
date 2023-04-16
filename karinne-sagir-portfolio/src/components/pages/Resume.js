@@ -3,7 +3,7 @@ import React from 'react';
 export default function Resume() {
   return (
     <div>
-      <h1>Resume Page</h1>
+      <h1>Resume</h1>
       <div id="break"></div>
       <div id="resume-info">
         <h2>Front-end Proficiencies</h2>
@@ -37,7 +37,7 @@ export default function Resume() {
         </ul>
         <p>
           <br></br>
-          Download my full resume: <a href="x" class="link">Karinne Sagir</a>
+          Download my full resume: <a href="https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/karinne-sagir-portfolio/src/assets/Resume%20-%20Karinne%20Sagir.pdf" class="link">Karinne Sagir</a>
         </p>
       </div>
     </div>

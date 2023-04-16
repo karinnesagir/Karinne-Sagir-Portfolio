@@ -15,8 +15,10 @@ code {
 
 
 :root {
-  --back: linear-gradient(0.25turn, #a8c0da, #f4f7f1, #cfbce0);
-  --onyx:#323638;
+  /* --back: linear-gradient(0.25turn, #a8c0da, #f4f7f1, #cfbce0); */
+  --back: linear-gradient(0.25turn, #77a5d7, #c3bff4, #ac76db);
+  /* --onyx:#323638; */
+  --onyx: rgb(40, 39, 39);
   --sandy-brown: #F09D51;
   --air-blue: white;
   /* from coolers: https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51 */
@@ -40,6 +42,7 @@ li {
 
 h3 {
   text-align: center;
+  font-size: 10px;
 }
 
 h2 {
@@ -87,10 +90,11 @@ h1 {
 
 #navigation li a {
   color: var(--onyx);
-  padding: 5px 10px 5px 0px;
+  margin: 5px 10px 5px 0px;
   text-decoration: none;
   text-shadow: 0.6px 0.6px;
   font-size: 17px;
+  font-weight: 300;
 }
 
 .list {
@@ -137,16 +141,16 @@ h1 {
 
 .about-intro {
   margin-bottom: 30px;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 30px;
 }
 
 .card {
   background-color: white;
-  border: 30px solid white;
+  border: 2px solid white;
   height: 320px;
   margin: 0px;
-  padding: 10px;
+  padding: 40px;
   position: relative;
   width: 300px;
   margin-top: 60px;
@@ -154,8 +158,7 @@ h1 {
 
 
 .nav-item.active .nav-link {
-  /* background-color: #007bff; */
-  font-weight: 400;
+  border-bottom: 1px solid white;
 }
 
 .card .img-container {
@@ -252,6 +255,8 @@ h1 {
   padding: 5px 400px 5px 50px;
   background-color: white;
   border-radius: 5px;
+  border-style: solid;
+  border-color: grey;
 }
 
 .message-input {
@@ -259,9 +264,9 @@ h1 {
 }
 
 #contact-label {
-  font-size: 18px;
+  font-size: 22px;
   color: black;
-  font-weight:300;
+  font-weight:320;
 }
 
 .contact-info {
@@ -269,10 +274,16 @@ h1 {
 }
 
 #contact-submit {
-  margin: 10px 0px 60px 0px;
-  font-size: 18px;
-  border-radius: 7px;
+  margin: 30px 0px 60px 0px;
+  font-size: 16px;
+  border-radius: 10px;
+  color: black;
   font-weight:300;
+  background-color: white;
+  border-style: none;
+  padding: 5px 15px;
+  font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  
 }
 
 .form-control {

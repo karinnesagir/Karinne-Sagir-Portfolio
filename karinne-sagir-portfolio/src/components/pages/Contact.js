@@ -60,7 +60,6 @@ return (
                 <p className="error-text" id="contact-error" >{errorMessage}</p>
             </div>
             )}
-
             <div>
             <button data-testid='button' class="btn btn-outline-dark mt-4" id="contact-submit" type="submit" onSubmit={handleSubmit}>Submit</button>
             </div>
