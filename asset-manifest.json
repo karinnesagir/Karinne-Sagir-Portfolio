@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Karinne-Sagir-Portfolio/static/css/main.d231dd43.css",
-    "main.js": "/Karinne-Sagir-Portfolio/static/js/main.d019ed0b.js",
+    "main.css": "/Karinne-Sagir-Portfolio/static/css/main.647a27eb.css",
+    "main.js": "/Karinne-Sagir-Portfolio/static/js/main.3eb8fa56.js",
     "static/js/787.fadd130b.chunk.js": "/Karinne-Sagir-Portfolio/static/js/787.fadd130b.chunk.js",
     "static/media/profile-image.jpg": "/Karinne-Sagir-Portfolio/static/media/profile-image.44b8334ad90b96fada70.jpg",
     "index.html": "/Karinne-Sagir-Portfolio/index.html",
-    "main.d231dd43.css.map": "/Karinne-Sagir-Portfolio/static/css/main.d231dd43.css.map",
-    "main.d019ed0b.js.map": "/Karinne-Sagir-Portfolio/static/js/main.d019ed0b.js.map",
+    "main.647a27eb.css.map": "/Karinne-Sagir-Portfolio/static/css/main.647a27eb.css.map",
+    "main.3eb8fa56.js.map": "/Karinne-Sagir-Portfolio/static/js/main.3eb8fa56.js.map",
     "787.fadd130b.chunk.js.map": "/Karinne-Sagir-Portfolio/static/js/787.fadd130b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d231dd43.css",
-    "static/js/main.d019ed0b.js"
+    "static/css/main.647a27eb.css",
+    "static/js/main.3eb8fa56.js"
   ]
 }
