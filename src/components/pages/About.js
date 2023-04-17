@@ -18,8 +18,8 @@ export default function About() {
           src={require('/Users/karinnesagir/Desktop/Karinne-Sagir-Portfolio/src/assets/images/profile-image.jpg')} 
           class="profile-img"
           alt="profile" 
-          height="150px"
-          width="170px"
+          height="250px"
+          width="270px"
         />
         <div id="about-section-p">
           <p class="about-p">Hello, Welcome to my page.</p>

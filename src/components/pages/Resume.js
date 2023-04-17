@@ -37,7 +37,7 @@ export default function Resume() {
         </ul>
         <p>
           <br></br>
-          Download my full resume: <a href="https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/karinne-sagir-portfolio/src/assets/Resume%20-%20Karinne%20Sagir.pdf" class="link">Karinne Sagir</a>
+          <button class="contact-submit"><a href="https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/Resume%20-%20Karinne%20Sagir.pdf" class="link downlaod-text">Download full resume</a></button>
         </p>
       </div>
     </div>

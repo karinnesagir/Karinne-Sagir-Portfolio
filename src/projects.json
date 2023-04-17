@@ -2,7 +2,7 @@
   {
   "id": 1,
   "name": "Budgetly",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/Budgetly.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/Budgetly.jpg",
   "github": "https://github.com/karinnesagir/Budgetly",
   "deploy": "https://budget-app-nodejs.herokuapp.com",
   "topics": "Express, Node.js, expression-cookies, cookies, Handlebars.js, MySQL2, Sequelize, dotenv, d3 library"
@@ -10,7 +10,7 @@
   {
   "id": 2,
   "name": "Text Editor",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/JATE.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/JATE.jpg",
   "github": "https://github.com/karinnesagir/Text-Editor",
   "deploy": "https://text-editor586.herokuapp.com",
   "topics": "Express, if-env, concurrently, nodemon, babel, webpack, WebpackPwaManifest, PWA, workbox service worker"
@@ -18,7 +18,7 @@
   {
   "id": 3,
   "name": "GrubFinder",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/Grubfinder.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/Grubfinder.jpg",
   "github": "https://github.com/karinnesagir/Grubfinder",
   "deploy": "https://malxxy.github.io/grubfinder/",
   "topics": "Geolocation, localStorage, Google Map API, Search, Materialize"
@@ -26,7 +26,7 @@
   {
   "id": 4,
   "name": "Weather Dashboard",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/weather-dashboard.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/weather-dashboard.jpg",
   "github": "https://github.com/karinnesagir/Weather-Dashboard",
   "deploy": "https://karinnesagir.github.io/Weather-Dashboard/",
   "topics": "OpenWeatherMap API, Day.js, JQuery, localStorage, Search, Materialize, Bootstrap"
@@ -34,7 +34,7 @@
  {
   "id": 5,
   "name": "Social Network API ",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/Social-Network-API.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/Social-Network-API.jpg",
   "github": "https://github.com/karinnesagir/Social-Network-API",
   "deploy": "https://github.com/karinnesagir/Social-Network-API",
   "topics": "Express, MongoDB, Mongoose, Insomnia Core"
@@ -42,7 +42,7 @@
   {
   "id": 6,
   "name": "E commerce Back End",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/E-commerce.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/E-commerce.jpg",
   "github": "https://github.com/karinnesagir/E-commerce-Back-End",
   "deploy": "https://github.com/karinnesagir/E-commerce-Back-End",
   "topics": "Node.js, MySQL2, dotenv, Express, Sequelize, Insomnia Core"
@@ -50,7 +50,7 @@
   {
   "id": 7,
   "name": "Employee Tracker",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/employee-tracker.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/employee-tracker.jpg",
   "github": "https://github.com/karinnesagir/Employee-Tracker",
   "deploy": "https://github.com/karinnesagir/Employee-Tracker",
   "topics": "Node.js, MySQL2, console.table, Inquirer, Express"
@@ -58,7 +58,7 @@
   {
   "id": 8,
   "name": "Team Profile Generator",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/Team-generator.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/Team-generator.jpg",
   "github": "https://github.com/karinnesagir/Team-Profile-Generator",
   "deploy": "https://github.com/karinnesagir/Team-Profile-Generator",
   "topics": "Jest, Inquirer, Node.js, Object-Oriented Porgramming, Bootstrap"
@@ -66,7 +66,7 @@
   {
   "id": 9,
   "name": "Professional README Generator",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/readme-generator.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/readme-generator.jpg",
   "github": "https://github.com/karinnesagir/Professional-README-Generator",
   "deploy": "https://karinnesagir.github.io/Professional-README-Generator/",
   "topics": "Inquirer, Node.js"
@@ -74,7 +74,7 @@
   {
   "id": 10,
   "name": "Note Taker",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/note-taker.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/note-taker.jpg",
   "github": "https://github.com/karinnesagir/Note-Taker",
   "deploy": "https://note-taker23.herokuapp.com",
   "topics": "Express, Node.js, npm, Bootstrap, Inquirer, JSON"
@@ -82,7 +82,7 @@
   {
   "id": 11,
   "name": "Work Day Scheduler",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/work-day-scheduler.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/work-day-scheduler.jpg",
   "github": "https://github.com/karinnesagir/Work-Day-Scheduler",
   "deploy": "https://karinnesagir.github.io/Work-Day-Scheduler/",
   "topics": "Day.js, Javascript, CSS, HTML"
@@ -90,7 +90,7 @@
   {
   "id": 12,
   "name": "Password Generator",
-  "image": "https://raw.githubusercontent.com/karinnesagir/Karinne-Sagir-Portfolio/main/karinne-sagir-portfolio/src/assets/images/password-generator.jpg",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/password-generator.jpg",
   "github": "https://github.com/karinnesagir/Password-Generator",
   "deploy": "https://karinnesagir.github.io/Password-Generator/",
   "topics": "HTML, Javascript, CSS"
