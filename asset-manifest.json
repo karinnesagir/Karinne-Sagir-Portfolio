@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Karinne-Sagir-Portfolio/static/css/main.647a27eb.css",
-    "main.js": "/Karinne-Sagir-Portfolio/static/js/main.3eb8fa56.js",
+    "main.js": "/Karinne-Sagir-Portfolio/static/js/main.3943de42.js",
     "static/js/787.fadd130b.chunk.js": "/Karinne-Sagir-Portfolio/static/js/787.fadd130b.chunk.js",
     "static/media/profile-image.jpg": "/Karinne-Sagir-Portfolio/static/media/profile-image.44b8334ad90b96fada70.jpg",
     "index.html": "/Karinne-Sagir-Portfolio/index.html",
     "main.647a27eb.css.map": "/Karinne-Sagir-Portfolio/static/css/main.647a27eb.css.map",
-    "main.3eb8fa56.js.map": "/Karinne-Sagir-Portfolio/static/js/main.3eb8fa56.js.map",
+    "main.3943de42.js.map": "/Karinne-Sagir-Portfolio/static/js/main.3943de42.js.map",
     "787.fadd130b.chunk.js.map": "/Karinne-Sagir-Portfolio/static/js/787.fadd130b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.647a27eb.css",
-    "static/js/main.3eb8fa56.js"
+    "static/js/main.3943de42.js"
   ]
 }
