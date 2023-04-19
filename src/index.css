@@ -107,7 +107,9 @@ h1 {
 
 #aboutPage {
   padding: 70px 0px 150px 0px;
-  background: var(--back)
+  background: var(--back);
+  /* background-image: url(/Users/karinnesagir/Desktop/Karinne-Sagir-Portfolio/src/assets/images/background.jpg); */
+  /* margin: 0px 20px; */
 }
 
 .break {
