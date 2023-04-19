@@ -2,10 +2,10 @@
   {
   "id": 13,
   "name": "Go Bommarito",
-  "image": "",
+  "image": "https://github.com/karinnesagir/Karinne-Sagir-Portfolio/raw/main/src/assets/images/go-bommarito.jpg",
   "github": "https://github.com/karinnesagir/go-bommarito",
   "deploy": "https://evening-gorge-46192.herokuapp.com/",
-  "topics": ""
+  "topics": "React, GraphQL, Node.js, Express.js, MongoCB, Mongoose, JWT authentication"
   },
   {
   "id": 1,
